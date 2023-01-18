@@ -1,0 +1,12 @@
+
+
+import javax.swing.JOptionPane;
+
+public class InJava {
+        public String Ola;
+        
+        public void mostraMensagem(){
+            System.out.println("Bem vindo"+Ola);
+            JOptionPane.showMessageDialog(null,"Bem vindo ao módulo de java");
+        }
+}
