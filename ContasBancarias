@@ -1,0 +1,11 @@
+package contasbancarias;
+
+public class ContasBancarias {
+
+    public static void main(String[] args) {
+        ContaInvestimento cdb = new ContaInvestimento();
+        cdb.depositarConta();
+        cdb.depositarConta();
+        cdb.consultarConta();
+    }   
+}
