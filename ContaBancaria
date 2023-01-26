@@ -1,0 +1,24 @@
+package banco30n;
+import javax.swing.JOptionPane;
+
+public class ContaBancaria {
+    public double saldo=0.0;
+    
+    public void consultarSaldo(){
+        JOptionPane.showMessageDialog(null,"Seu saldo é: R$ "+saldo);
+    }
+
+    public void depositarValor() {
+       double valor;
+       valor = Double.parseDouble(JOptionPane.showInputDialog(null,"Digite o valor:"));
+       saldo+=valor;
+       JOptionPane.showMessageDialog(null,"Seu saldo é: R$ "+saldo);
+     }
+    
+    public void sacarValor(){
+        double valor;
+        valor = Double.parseDouble(JOptionPane.showInputDialog(null, "Digite o valor: "));
+        saldo=valor;
+        JOptionPane.showMessageDialog(null,"Seu saldo é: R$ "+saldo);
+    }
+}    
