@@ -1,0 +1,22 @@
+package contasbancarias;
+
+import java.util.Iterator;
+
+public class ContaInvestimento extends ContaModelo {
+
+    @Override
+    public void consultarConta() {
+        //Saida do itr.next é uma progressão dos depositos.
+        Iterator<Double> itr = depositos.iterator();
+        saldoConta=0;
+        while (itr.hasNext()) {
+            saldoConta+=itr.next();
+            System.out.println(saldoConta);
+        }
+    }
+    @Override
+    public void depositarConta(){
+        valorDeposito = 500;
+        depositos.add(valorDeposito);
+    }
+}
