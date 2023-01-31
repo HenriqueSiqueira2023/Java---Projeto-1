@@ -7,8 +7,10 @@ Bem-vindo ao Java---Projeto-1 wiki!
 - Nome do arquivo: Conta Investimento
 - Nome do arquivo: Conta Corrente
 - Nome do arquivo: BancoA30N
+- Nome do arquivo: Conta Painel
 - NetBeans
 Software
+
 
 
 
