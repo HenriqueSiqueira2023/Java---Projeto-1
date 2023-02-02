@@ -2,11 +2,12 @@
 Bem-vindo ao Java---Projeto-1 wiki!
 - Comandos utilizados para criar o projeto Java.
 - Nome do arquivo: InJava
-- Nome do arquivo:IntroJava
+- Nome do arquivo: IntroJava
 - Nome do arquivo: Conta Bancária
 - Nome do arquivo: Conta Investimento.class
 - Nome do arquivo: Banco Movimento.class
 - Nome do arquivo: Conta Corrente
+- Nome do aquivo:  BancoA30.class
 - Nome do arquivo: BancoA30N
 - Nome do arquivo: Conta Painel
 - Nome do arquivo: Conta Painel.class
