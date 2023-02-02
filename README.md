@@ -1,4 +1,4 @@
-# Java---Projeto-1
+# Java-Projeto-1
 Bem-vindo ao Java---Projeto-1 wiki!
 - Comandos utilizados para criar o projeto Java.
 - Nome do arquivo: InJava
