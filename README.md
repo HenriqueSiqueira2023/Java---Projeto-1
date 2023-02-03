@@ -7,8 +7,9 @@ Bem-vindo ao Java-Projeto-1 wiki!
 - Nome do arquivo: Conta Investimento.class
 - Nome do arquivo: Banco Movimento.class
 - Nome do arquivo: Conta Corrente
-- Nome do arquivo:  BancoA30.class
+- Nome do arquivo: BancoA30.class
 - Nome do arquivo: BancoA30N
+- Nome do arquivo: BancoA30N.zip
 - Nome do arquivo: Conta Painel
 - Nome do arquivo: Conta Painel.class
 - Nome do arquivo: Conta Painel.form
@@ -20,6 +21,7 @@ Bem-vindo ao Java-Projeto-1 wiki!
 - Nome do arquivo: Conta Painel$6.class
 - Nome do arquivo: Conta Poupança.class
 - Nome do arquivo: logo_eibneti_topo
+- Nome do arquivo: eibi_logo.png
 - NetBeans
 Software
 
