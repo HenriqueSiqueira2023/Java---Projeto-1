@@ -1,0 +1,11 @@
+
+package introJava;
+
+public class IntroJava {
+   
+    public static void main(String[] args) {
+        InJava x=new InJava();
+        x.Ola=" Opa, coloquei aspas duplas!! foi mal ai ";
+        x.mostraMensagem();
+    }    
+}
